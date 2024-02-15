@@ -1,0 +1,4 @@
+Filp with left and right arrow keys.
+
+Shoot red zombies with red bullets (right mouse click).
+Shoot green zombies with green bullets (left mouse click) 
